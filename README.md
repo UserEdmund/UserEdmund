@@ -4,7 +4,8 @@ I'm Edmund Qi, a high school student form Shanghai, China.
 ![](https://github-readme-stats.vercel.app/api?username=UserEdmund&&theme=dark&&show_icons=true)    
 
 I'm new to this codding environment.   
-🌱 I’m currently self-teaching AI and game production. 
+🌱 I’m currently self-teaching AI and game production.    
+OOOOOOOOOOOO_OOOOOOOOOOOOOOOOOOO
 
 ### NICE TO MEET YOU!
 
